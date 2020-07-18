@@ -1,0 +1,32 @@
+body
+{
+  background-color:#ffdfdf;
+}
+h1
+{
+  color:blue;
+  font-size:50px;
+}
+.bacon
+{
+  background-color:#f66767;
+  height:150px;
+}
+.broccoli
+{
+background-color:#c0ffb3;
+  height:150px;
+}
+.circular
+{
+  border-radius: 100%;
+}
+#heading
+{
+  color:#d35656;
+  font-size:50px;
+}
+img:hover
+{
+  background-color: gold;
+}
